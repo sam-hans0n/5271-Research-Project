@@ -13,7 +13,7 @@
   "devDependencies": {
     "expect": "22.4.0",
     "jsondiffpatch": "0.3.5",
-    "mocha": "5.0.4"
+    "mocha": "10.2.0"
   },
   "scripts": {
     "test": "mocha",
